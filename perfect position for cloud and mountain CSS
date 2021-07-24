@@ -1,0 +1,17 @@
+.top-cloud{
+    position: relative;
+    left: 250px;
+    margin: 0px;
+}
+
+.bottom-cloud{
+    position: relative;
+    margin-top: 20px;
+    bottom: 300px;
+    left: 100px;
+}
+
+.mountain{
+    position: relative;
+    right: 80px;
+}
